@@ -1,3 +1,7 @@
+.egg_container_parent {
+  margin-top: 80px;
+}
+
 .egg_container {
   display: flex;
   justify-content: center;
